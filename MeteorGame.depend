@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638747996 source:/home/tommy/Stuff/Projects/MeteorGame/main.cpp
+	<SFML/Graphics.hpp>
+	"main.hpp"
+	<iostream>
+	<string>
+	<random>
+	<sstream>
+	<math.h>
+
+1638747998 /home/tommy/Stuff/Projects/MeteorGame/main.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
